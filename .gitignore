@@ -1,0 +1,19 @@
+# build outputs
+rho
+rho_toy
+rho_cpu
+rho.exe
+rho_toy.exe
+rho_cpu.exe
+*.o
+
+# solver state / logs
+sk.txt
+sk.txt.bak
+log_seed_*.txt
+pool/
+pool_*.bin
+
+# python
+__pycache__/
+*.pyc
