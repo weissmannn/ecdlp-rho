@@ -1,6 +1,5 @@
 # ecdlp-rho
 
-# note
 This program (as you might have guesses or not) was used for stuff that is not allowed to be published on github.
 Therefore take it as not a program or a tool that is usable but a simple example of how a certain size scalar key
 can be found using pollard rho solution as mentioned below.
